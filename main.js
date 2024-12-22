@@ -50,7 +50,7 @@ const addTask = (taskText, completed = false) => {
 const img = document.createElement('img');
 
 // تحديد مصدر الصورة
-img.src = 'check-solid.svg';
+img.src = 'images/check-solid.svg';
 
 // تعيين العرض والارتفاع
 img.style.width = '22px';
